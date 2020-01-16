@@ -1,4 +1,4 @@
-# consumeables
+# consumeables (bwl preperations)
 Count | Name | Effect | Info
 --- | --- | --- | ---
 20+ | Major Mana Potion | 1350-2250 mana
@@ -8,6 +8,7 @@ Count | Name | Effect | Info
 30+ | Nightfin Soup | 8 mana/5 | fishing f.e. in Deadwind Pass (Duskwood FP is really close) at night (after 10pm)
 20+ | Stratholme Holy Water | 438-562 dmg to undead | for Nefarian adds - found inside Stratholme boxes
 20 | Greater Fire Protection Potion | absorb 1950-3250 fire dmg | 1x Elemental Fire, 1x Dreamfoil
+10 | Greater Shadow Protection Potion | absorb 1950-3250 shadow dmg | 1x Shadow Oil (4x Fadeleaf, 4x Grave Moss), 1x Dreamfoil
 5+ | Restorative Potion | removes over 30s each 5s 1 magic, curse, poison or disease | 1x Elemental Earth, 1x Goldthron
 10 | Elixir of Superior Defense | increase armor by 450 | 2x Stonescale Oil, 1x Sungrass
 10 | Elixir of Fortitude | increase max health by 120 | 1x Wild Steelbloom, 1x Goldthron
