@@ -61,7 +61,7 @@
 -- proposed key: no
 -- macro name: misc sweav
 -- [@mouseover,harm,mod:ctrl][mod:ctrl]Mind Flay(Rank 1);
--- [@mouseover,harm,mod:shift][mod:shift]Shadow Word: Pain(Rank 1);
--- [@mouseover,harm][]Mind Blast(Rank 1)
+-- [@mouseover,harm,mod:shift][mod:shift]Mind Blast(Rank 1);
+-- [@mouseover,harm][]Shadow Word: Pain(Rank 1)
 #showtooltip
-/use [@mouseover,harm,mod:ctrl][mod:ctrl]Mind Flay(Rank 1);[@mouseover,harm,mod:shift][mod:shift]Shadow Word: Pain(Rank 1);[@mouseover,harm][]Mind Blast(Rank 1)
+/use [@mouseover,harm,mod:ctrl][mod:ctrl]Mind Flay(Rank 1);[@mouseover,harm,mod:shift][mod:shift]Mind Blast(Rank 1);[@mouseover,harm][]Shadow Word: Pain(Rank 1)
