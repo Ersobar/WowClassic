@@ -16,7 +16,10 @@ Count | Name | Effect | Info
 > * Nightfin Soup will be overwritten by using ANY other buff-food (like Monster Omelet)
 > * Juju Guile is just a nice to have
 
-# talents
+# talent
+## classic heal
+https://classic.wowhead.com/talent-calc/priest/5012301305001-215051030300055
+
 ### Spiritual Guidance
 > Increases spell damage and healing by up to 5% (10%, 15%, 20%, 25%) of your total spirit.
 
@@ -34,6 +37,14 @@ Only increase the base-amount healed by your healing spells. The value is not af
 ### Improved Renew
 > Increase the amount healed by your Renew spell by 5% (10%, 15%).
 Only increase the base-amount healed by your Renew. The value is not affected by HealingPower. Renew (Rank 10) will heal 1115.5‬ instead of 970.
+
+## healing hybrid spec for Shadow Weaving
+https://classic.wowhead.com/talent-calc/priest/50021213-2050500302-05005041005
+
+> * ~~Mind Flay (Rank 1): 45 Mana, during channeling uses debuff slot~~
+> * ~~Shadow Word: Pain (Rank 1): 25 Mana, uses debuff slot~~
+> * Mind Blast (Rank 1): 50 Mana (no debuff slot)
+> * [x] Weakaura for Shadow Weavin tracking
 
 # downranking
 https://www.youtube.com/watch?v=HBDfRiB1Zlk
@@ -118,7 +129,7 @@ Spirit | 100% (tick) | 15% (tick) | 15% (mana/60s) | 30% (tick) | 30% (mana/60s)
 > * 10 spirit: 30% of 2.5 mana per tick is 0.75 (over 60s = 22.5 mana)
 
 ### based on mana/5
-Mana/5 | 60s
+Mana/5 | mana over 60s
 --- | ---
 10 | 120
 20 | 240
@@ -126,12 +137,3 @@ Mana/5 | 60s
 40 | 480
 50 | 600
 
-## healing hybrid spec for Shadow Weaving
-https://classic.wowhead.com/talent-calc/priest/50021213-2050500302-45005001005
-
-https://classic.wowhead.com/talent-calc/priest/50021213-2050500302-05005041005 (focused on mind blast)
-
-> * Todo: Weakaura for Shadow Weaving for enemies - need stack count and duration bar
-> * Mind Flay (Rank 1): 45 Mana
-> * Shadow Word: Pain (Rank 1): 25 Mana
-> * Mind Blast (Rank 1): 50 Mana (no debuff slot)
