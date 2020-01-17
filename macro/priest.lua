@@ -14,6 +14,8 @@
 #showtooltip
 /use [@mouseover,help,mod:ctrl][@targettarget,help,mod:ctrl][mod:ctrl]Flash Heal(Rank 1);[@mouseover,help,mod:shift][@targettarget,help,mod:shift][mod:shift]Flash Heal(Rank 5);[@mouseover,help][@targettarget,help][]Flash Heal(Rank 3)
 
+-- TODO: [@mouseover] seems buggy, when bound to mouse 4/5 in raidframes! validate an fix asap
+
 -- ----------------------------------------------------------------------------
 -- proposed key: 
 -- macro name: heal greater
@@ -57,6 +59,7 @@
 #showtooltip
 /use [@mouseover,help,mod:shift][mod:shift]Prayer of Fortitude(Rank 2);[@mouseover,help][]Power Word: Fortitude(Rank 6)
 /run print("[Sacred Candle] in inventory: ", GetItemCount(17029))
+
 -- ----------------------------------------------------------------------------
 -- proposed key: no
 -- macro name: misc sweav
