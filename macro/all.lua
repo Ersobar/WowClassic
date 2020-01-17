@@ -23,10 +23,10 @@
 -- ----------------------------------------------------------------------------
 -- proposed key: 
 -- macro name: misc fish
--- [@mouseover,help,mod:ctrl][@targettarget,help,mod:ctrl][mod:ctrl]Flash Heal(Rank 1);
--- [@mouseover,help,mod:shift][@targettarget,help,mod:shift][mod:shift]Flash Heal(Rank 5);
--- [@mouseover,help][@targettarget,help][]Flash Heal(Rank 3)
 #showtooltip
-/equip [nomod]Fishing Pole
-/cast [nomod]Fishing
-/use [mod:shift]Shiny Bauble
+/stopcasting
+/equip [noequipped:Big Iron Fishing Pole]Big Iron Fishing Pole
+/cast [equipped:Fishing Pole, nomod:shift]Fishing
+/use [mod:shift]Nightcrawlers
+/use [mod:shift]16
+/script UIErrorsFrame:Clear()
