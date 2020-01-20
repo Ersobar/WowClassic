@@ -32,8 +32,8 @@
 -- macro name: misc fish
 #showtooltip
 /stopcasting
-/equip [noequipped:Fishing Poles]Big Iron Fishing Pole
-/cast [equipped:Fishing Poles, nomod:shift]Fishing
+/equip [noequipped:Fishing Pole]Big Iron Fishing Pole
+/cast [equipped:Fishing Pole,nomod:shift]Fishing
 /use [mod:shift]Nightcrawlers
 /use [mod:shift]16
 /script UIErrorsFrame:Clear()
