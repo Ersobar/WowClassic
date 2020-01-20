@@ -1,6 +1,7 @@
 
 ## slash commands
 https://wow.gamepedia.com/Macro_commands
+todo: review https://huntsmanslodge.com/macros/
 
 ## item types
 One-Handed Axes, Two-Handed Axes, Bows, Guns, One-Handed Maces, Two-Handed Maces, Polearms, One-Handed Swords, Two-Handed Swords, Staves, Fist Weapons, Daggers, Thrown, Crossbows, Wands, Fishing Poles

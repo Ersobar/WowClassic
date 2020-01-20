@@ -15,6 +15,31 @@
 /use [@mouseover,help,mod:ctrl][@targettarget,help,mod:ctrl][mod:ctrl]Flash Heal(Rank 1);[@mouseover,help,mod:shift][@targettarget,help,mod:shift][mod:shift]Flash Heal(Rank 5);[@mouseover,help][@targettarget,help][]Flash Heal(Rank 3)
 
 -- TODO: [@mouseover] seems buggy, when bound to mouse 4/5 in raidframes! validate an fix asap
+-- wow api behavior - mouse buttons are handled unequal to keyboard buttons
+
+-- repro
+#showtooltip
+/use [@mouseover,help]Flash Heal(Rank 1)
+
+-- repro
+#showtooltip
+/use [target=mouseover,help]Flash Heal(Rank 1)
+
+-- todo: test with bliz raidframes
+
+-- possible fix
+#showtooltip
+/target [@mouseover,help]
+/use Flash Heal(Rank 1)
+/targetlasttarget
+
+#showtooltip
+/target [@mouseover,help][@targettarget,help][@target,help][@player]
+/use Flash Heal(Rank 1)
+/targetlasttarget
+
+-- todo: syn
+/cast [@mouseover,help] [help] [@targettarget,help] [] SPELL
 
 -- ----------------------------------------------------------------------------
 -- proposed key: 
