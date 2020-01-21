@@ -4,7 +4,8 @@ https://wow.gamepedia.com/Macro_commands
 todo: review https://huntsmanslodge.com/macros/
 
 ## item types
-One-Handed Axes, Two-Handed Axes, Bows, Guns, One-Handed Maces, Two-Handed Maces, Polearms, One-Handed Swords, Two-Handed Swords, Staves, Fist Weapons, Daggers, Thrown, Crossbows, Wands, Fishing Poles
+> todo: Fishing Pole**s** wont trigger. Without the "s" anything works fine (fishing macro). => Verify the other types.
+One-Handed Axes, Two-Handed Axes, Bows, Guns, One-Handed Maces, Two-Handed Maces, Polearms, One-Handed Swords, Two-Handed Swords, Staves, Fist Weapons, Daggers, Thrown, Crossbows, Wands, Fishing Pole
 
 ## player forms/stances
 0. no form
@@ -36,6 +37,7 @@ One-Handed Axes, Two-Handed Axes, Bows, Guns, One-Handed Maces, Two-Handed Maces
 ## unit id conditionals
 * [@focus] ADDED IN 2.0.0
 * [@mouseover] the unit which the mouse is currently (or was most recently) hovering over
+> Bugged when used in macro which is bound to Mouse 3, 4 or 5.
 * [@partyN] the party member with partyIndex N (1,2,3,4) excluding the player
 * [@pet] the current player's pet
 * [@player] the current player
