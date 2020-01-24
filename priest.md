@@ -21,10 +21,10 @@ Focus: Every priest gets the first T2 bonus as soon as possible!
 ### conclusion
 * Claw of Chromaggus + Lei of the Lifegiver vs. Benediction
 > 11 +heal, 7 mana/5, -14 int, -3 sta, -12 spirit, -2% crit
-**It's not worth it**
+> - **It's not worth it**
 * Lok'amir il Romathis + Lei of the Lifegiver vs. Benediction
 > 31 +heal, 3 mana/5, -13 int, -4 spirit, -2% crit
-**a slight improvement**
+> - **a slight improvement**
 
 ## boss loot
 loot rotation: longest guild membership preferred (this card can only be played once)
