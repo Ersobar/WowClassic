@@ -59,6 +59,7 @@ loot rotation: longest guild membership preferred (this card can only be played 
 ### Nefarian
 * Robes of Transcendence (T2 Chest)
 * Pure Elementium Band (Ring)
+> very high priority
 * Lok'amir il Romathis (Main Hand)
 > medium priority: if an druid or paladin wants the weapon, they should get it (because of the lack of alternatives)
 
