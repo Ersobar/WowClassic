@@ -1,8 +1,8 @@
 # bwl loot priority
 Focus: Every priest gets the first T2 bonus as soon as possible!
-Notes:
-* Exactly one T2 set item from bwl is required for this
-* Every item not listed is either just a fun item or irrelevant
+> Notes:
+> * Exactly one T2 set item from bwl is required for this
+> * Every item not listed is either just a fun item or irrelevant
 
 ## weapons (how much it's worth)
 * Benediction (Staff)
