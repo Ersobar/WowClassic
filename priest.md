@@ -1,3 +1,67 @@
+# bwl loot priority
+Focus: Every priest gets the first T2 bonus as soon as possible!
+Notes:
+* Exactly one T2 set item from bwl is required for this
+* Every item not listed is either just a fun item or irrelevant
+
+## weapons (how much it's worth)
+* Benediction (Staff)
+> 106 +heal, 31 int, 10 sta, 12 spirit, 2% crit
+* Lei of the Lifegiver (Offhand)
+> 53 +heal, 3 mana/5
+* Claw of Chromaggus (Dagger)
+> 64 +heal, 4 mana/5, 17 int, 7 sta
+* Lok'amir il Romathis (Mace)
+> 84 +heal, 18 int, 10 sta, 8 spirit
+### combinations
+* Claw of Chromaggus + Lei of the Lifegiver
+> 117 +heal, 7 mana/5, 17 int, 7 sta
+* Lok'amir il Romathis + Lei of the Lifegiver
+> 137 +heal, 3 mana/5, 18 int, 10 sta, 8 spirit
+### conclusion
+* Claw of Chromaggus + Lei of the Lifegiver vs. Benediction
+> 11 +heal, 7 mana/5, -14 int, -3 sta, -12 spirit, -2% crit
+**It's not worth it**
+* Lok'amir il Romathis + Lei of the Lifegiver vs. Benediction
+> 31 +heal, 3 mana/5, -13 int, -4 spirit, -2% crit
+**a slight improvement**
+
+## boss loot
+loot rotation: longest guild membership preferred (this card can only be played once)
+
+### Razorgore the Untamed
+* Bindings of Transcendence (T2 Wrist)
+### Vaelastrasz the Corrupt
+* Belt of Transcendence (T2 Waist)
+### Broodlord Lashlayer
+* Boots of Transcendence (T2 Feet)
+### Firemaw
+* Handguards of Transcendence (T2 Hands)
+* Rejuvenating Gem (Trinket)
+> high priority
+* Firemaw's Clutch (Waist)
+> low priority: Belt of Transcendence for T2 set bonus is more relevant
+### Ebonroc
+* Handguards of Transcendence (T2 Hands)
+* Rejuvenating Gem (Trinket)
+> high priority
+### Flamegor
+* Handguards of Transcendence (T2 Hands)
+* Shroud of Pure Thought (Back)
+* Rejuvenating Gem (Trinket)
+> high priority
+### Chromaggus
+* Pauldrons of Transcendence (T2 Shoulder)
+* Empowered Leggings (Legs)
+> low priority: way more interesting for paladins (has 31 less add healing, but still is not T2)
+* Claw of Chromaggus (Dagger)
+> low priority: way more interesting for heal druids
+### Nefarian
+* Robes of Transcendence (T2 Chest)
+* Pure Elementium Band (Ring)
+* Lok'amir il Romathis (Main Hand)
+> medium priority: if an druid or paladin wants the weapon, they should get it (because of the lack of alternatives)
+
 # consumeables (bwl preperations)
 Count | Name | Effect | Info
 --- | --- | --- | ---
